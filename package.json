@@ -1,0 +1,33 @@
+{
+  "name": "@algosail/number",
+  "version": "0.1.0",
+  "description": "Small collection of FP utilities for working with numbers.",
+  "author": "algosail",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "dependencies": {
+    "@algosail/maybe": "0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algosail/nil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/algosail/nil/issues"
+  },
+  "homepage": "https://github.com/algosail/nil#readme",
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  }
+}
