@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/algosail/nil.git"
+    "url": "git+https://github.com/algosail/number.git"
   },
   "bugs": {
-    "url": "https://github.com/algosail/nil/issues"
+    "url": "https://github.com/algosail/number/issues"
   },
-  "homepage": "https://github.com/algosail/nil#readme",
+  "homepage": "https://github.com/algosail/number#readme",
   "prettier": {
     "singleQuote": true,
     "semi": false
